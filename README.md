@@ -1,7 +1,7 @@
 <h1 align="center"></h1>
 
 <p align="center">
-  <img src="https://media.tenor.com/bWnLL6tw3ZAAAAAi/hogwarts-maintenance.gif">
+  <img src="https://img.craiyon.com/2024-06-06/jw9hKhNRRMyqcjFsLflZ7A.webp">
 </p>
 
 <h2 align="center">
