@@ -8,11 +8,12 @@
   <a href="[About URL]">About</a> | <a href="[Linkedin URL]">Linkedin</a> | <a href="[Discord URL]">Discord</a> | <a href="[Website URL]">Website</a> 
 </h2>
 
-## Introduction
-This area is currently under reconstruction please come back another time.
-
+## Instructions
+- Download or copy the YDv2.py
+- Run the script
+- Done
 
 -----
 
 
-<p align="center"> Instructions will be posted soon. </p>
+<p align="center"> Thanks for your support. </p>
