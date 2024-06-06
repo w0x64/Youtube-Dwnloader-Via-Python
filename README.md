@@ -1,7 +1,7 @@
-<h1 align="center">Under Maintenance</h1>
+<h1 align="center"></h1>
 
 <p align="center">
-  <img src="[Image URL]" alt="">
+  <img src="https://media.tenor.com/bWnLL6tw3ZAAAAAi/hogwarts-maintenance.gif">
 </p>
 
 <h2 align="center">
@@ -15,4 +15,4 @@ This area is currently under reconstruction please come back another time.
 -----
 
 
-<p align="center"> Goodbye! </p>
+<p align="center"> Under Maintenance </p>
