@@ -1,7 +1,7 @@
 <h1 align="center">Youtube Downloader Via Python</h1>
 
 <p align="center">
-  <img src="https://th.bing.com/th/id/OIG4.7mSf.g6frE7I1j0SaU5u?w=1024&h=1024&rs=1&pid=ImgDetMain](https://th.bing.com/th/id/OIG4.7mSf.g6frE7I1j0SaU5u?w=270&h=270&c=6&r=0&o=5&pid=ImgGn">
+  <img src="https://th.bing.com/th/id/OIG4.7mSf.g6frE7I1j0SaU5u?w=270&h=270&c=6&r=0&o=5&pid=ImgGn">
 </p>
 
 <h2 align="center">
