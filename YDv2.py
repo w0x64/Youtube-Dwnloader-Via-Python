@@ -1,4 +1,8 @@
-from pytube import YouTube, Playlist
+# Youtube updated javascript and also made some other changes so the content grabbed is 360 only. 
+# Found a work around with ffmpeg but not releasing anything yet, sorry.
+
+
+from pytubefix import YouTube, Playlist
 import os
 import string
 import shutil
@@ -7,7 +11,7 @@ import threading
 import sys
 import requests
 from bs4 import BeautifulSoup
-from pytube import YouTube as pytubeYouTube # This avoids conflicts with the original YouTube class dont fuck w/ this.
+from pytubefix import YouTube as pytubeYouTube # This avoids conflicts with the original YouTube class dont fuck w/ this.
 
 # Grabs the directory where the script is located
 SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
