@@ -5,7 +5,7 @@
 </p>
 
 <h2 align="center">
-  <a href="[About URL]">About</a> | <a href="[Website URL]">Website</a> | <a href="[https://www.dailymotion.com/video/k3rFdSaGi9TPPPARtea]">Video</a> 
+  <a href="[About URL]">About</a> | <a href="[Website URL]">Website</a> | <a href="https://www.dailymotion.com/video/k3rFdSaGi9TPPPARtea">Video</a> 
 </h2>
 
 ## Instructions
