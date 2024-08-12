@@ -1,16 +1,17 @@
 import subprocess
 
-# Packages to be installed
+# Packages to be installed, change accordingly.
 packages = ['pytubefix', 'moviepy', 'pyppdf', 'wikipedia']
 
-# Iterates over each package & installs if not already installed
+# Iterates over each pkg to prevent reinstallations.
+# This allows the script to skip already installed pkgs.
 for package in packages:
     try:
-        # Checks if the package is already installed
+        # Checks if the pkg is already installed
         subprocess.check_call(['pip', 'show', package], stdout=subprocess.DEVNULL, stderr=subprocess.DEVNULL)
         print(f"{package} is already installed. Skipping...")
     except subprocess.CalledProcessError:
-        # If not installed, install package
+        # If not already installed, install pkg
         print(f"Installing {package}...")
         subprocess.check_call(['pip', 'install', package])
         
