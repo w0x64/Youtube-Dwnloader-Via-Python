@@ -108,8 +108,8 @@ def download_playlist(url, folder_path):
 def main():
     folder_path = DEFAULT_SAVE_PATH
 
-    # The script automatically creates a cache folder which we don't need so we delete it, its named '__pycache__'
-    # Remove this if you dont want the python cache folder being deleted when the script is run
+    # The script automatically creates a cache folder which we don't need so I added this to delete it, the folder is named '__pycache__'
+    # In the event you wish to inspect the cache folder, remove this part of the script and it will not be purged.
     pycache_path = os.path.join(folder_path, '__pycache__')
     if os.path.exists(pycache_path):
         shutil.rmtree(pycache_path)
