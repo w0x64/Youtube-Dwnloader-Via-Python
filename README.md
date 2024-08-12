@@ -19,7 +19,3 @@
 
 
 <p align="center"> Thanks for your support. </p>
-
-<p align="center">
-  <img src="https://th.bing.com/th/id/OIG3.Q4UOJxCuj7qtK5hNQpxU?w=270&h=270&c=6&r=0&o=5&dpr=2&pid=ImgGn">
-</p>
