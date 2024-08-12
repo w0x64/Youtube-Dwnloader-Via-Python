@@ -1,7 +1,7 @@
 import subprocess
 
 # Packages to be installed
-packages = ['pytube', 'moviepy', 'pyppdf', 'wikipedia']
+packages = ['pytubefix', 'moviepy', 'pyppdf', 'wikipedia']
 
 # Iterates over each package & installs if not already installed
 for package in packages:
